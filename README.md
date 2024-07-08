@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I’m an electronic engineer specialized in intelligent embedded systems. I’ve developed many electronic and software projects throughout my career which have fullfield high standards so I consider myself a professional in problem solving.
+### I’m an electronics engineer specialized in intelligent embedded systems. I’ve developed many electronic and software projects throughout my career which have fullfield high standards so I consider myself a professional in problem solving.
 
 <!--
 **jcrobles99/jcrobles99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
